@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Feuille 2 : *Synthèse de progression automatique*
+### 📊 Dash (accueil) : *Synthèse de progression automatique*
 
 | **Activité Type**         | **Nb de compétences** | **% moyen d’avancement** | **Date moyenne de validation** | **Statut global**            |
 | ------------------------- | --------------------- | ------------------------ | ------------------------------ | ---------------------------- |
